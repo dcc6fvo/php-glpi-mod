@@ -1,0 +1,9 @@
+Criar perfil de acesso Home, sem permissão alguma;
+
+Setar perfil Home para entidade raiz;
+
+Prover permissao self-service para as demais subentidades;
+
+Prover permissao technician para as subentidades cujo usuario faz parte do grupo da entidade;
+
+Criação das regras;

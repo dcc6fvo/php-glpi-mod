@@ -1,0 +1,3 @@
+1) Inserir o código (helpdesk.public.php) antes de ticket_summary = ""; 
+
+2) Copiar arquivo MudarEntidade.php para dentro de src/
