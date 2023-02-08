@@ -36,3 +36,11 @@ The following represents a step by step to configure the glpi installation that 
 <p align="center">
   <img src="img/admin-user-authorization.png">
 </p>
+
+Finally
+-----------------------
+If everything went well, the user's home screen will look something like this:
+<p align="center">
+  <img src="img/user-home-page.png">
+</p>
+
