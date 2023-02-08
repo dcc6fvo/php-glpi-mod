@@ -34,9 +34,5 @@ The following represents a step by step to configure the glpi installation that 
 </p>
 
 <p align="center">
-  <img src="img/profile-home-assistance.png" alt="GLPI home profile assistance config">
-</p>
-
-<p align="center">
   <img src="img/admin-user-authorization.png" alt="GLPI user auth">
 </p>
