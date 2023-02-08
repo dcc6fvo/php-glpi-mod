@@ -39,6 +39,18 @@ The following represents a step by step to configure the glpi installation that 
   <img src="img/admin-user-authorization.png">
 </p>
 
+Install
+-----------------------
+The install is very easy. First copy the MudarEntidades.php file to the GLPI src/ folder. Then, add the following code to front/helpdesk.public.php:
+
+```
+  if (isset($_SESSION['glpiactiveprofile'])) {
+        if ($_SESSION['glpiactiveprofile']['name'] == 'Home'){
+            MudarEntidade::show();
+        }
+  }  
+```
+
 Finally
 -----------------------
 If everything went well, the user's home screen will look something like this:
