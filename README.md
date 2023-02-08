@@ -58,3 +58,4 @@ If everything went well, the user's home screen will look something like this:
   <img src="img/user-home-page.png">
 </p>
 
+Feel free to modify the code as needed !!
