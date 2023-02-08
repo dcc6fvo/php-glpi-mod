@@ -1,12 +1,5 @@
 <?php
 
-use Glpi\Application\View\TemplateRenderer;
-use Glpi\RichText\RichText;
-use Glpi\Socket;
-use Glpi\Toolbox\DataExport;
-use Glpi\Toolbox\Sanitizer;
-
-
 class MudarEntidade
 {
 
