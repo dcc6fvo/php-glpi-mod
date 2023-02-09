@@ -1,6 +1,6 @@
 # php-glpi-mod
 
-This is a modification for GLPI 10.0.x that allows users to open tickets in entities other than the root entity, accessing them through the buttons present in the "Home" profile. The "Home" profile must be configured on the root entity. In this model, users cannot open tickets in the root entity, only in the sub-entities. For this context we consider there are no people managing the root entity, only people in their departments/entities who are responsible only for them.
+This is a modification for GLPI 10.0.x that allows users to open tickets in entities other than the root entity, accessing them through the buttons in the "Home" profile. The "Home" profile must be configured on the root entity. In this model, users cannot open tickets in the root entity, only in the sub-entities. For this context we consider there are no people managing the root entity, only people in their departments/entities who are responsible only for them.
 
 First you need to make some modifications to GLPI, and then just copy the files suggested in the installation session.
 
